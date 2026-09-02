@@ -9,10 +9,6 @@ The objective of this project is to identify trends in EV inventory,
 understand manufacturer distribution, and visualize the growth of electric
 vehicles across different model years.
 
-## 📈 Dashboard
-
-![Electric Vehicle Inventory Dashboard](Dashboard.png)
-
 ## 🔍 Key Insights
 
 - Total EV records analyzed: 294,193
